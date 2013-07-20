@@ -1,1 +1,4 @@
-sss
+int main(){
+
+return 100;
+}
